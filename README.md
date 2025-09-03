@@ -28,7 +28,7 @@ pip install -r requirements.txt
 jupyter notebook Uber_Rides_Analysis.ipynb
 ```
 
-##✨ Results
-Most of the cabs booked for the distance of 4-5 miles.
-Majorly people chooses cabs for the distance of 0-20 miles.
-For distance more than 20 miles cab counts is nearly negligible.
+## ✨ Results
+- Most of the cabs booked for the distance of 4-5 miles.
+- Majorly people chooses cabs for the distance of 0-20 miles.
+- For distance more than 20 miles cab counts is nearly negligible.
