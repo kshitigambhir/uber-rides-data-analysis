@@ -16,6 +16,9 @@ The analysis was performed using **Python, Pandas, Matplotlib, and Seaborn** in 
 - Insights & conclusions about Uber ride behavior  
 
 ## 📷 Sample Visualizations
+![image](https://github.com/kshitigambhir/uber-rides-data-analysis/blob/main/images/Screenshot%202025-09-03%20182407.png)
+![image](https://github.com/kshitigambhir/uber-rides-data-analysis/blob/main/images/Screenshot%202025-09-03%20182341.png)
+
 
 ## 📦 Installation & Usage
 Clone the repo:
